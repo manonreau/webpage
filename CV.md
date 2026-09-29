@@ -1,6 +1,7 @@
 # Experience
-* **2020-now** : **Post-doc in structural biology** - <a href="https://www.bonvinlab.org">Bonvin Lab</a>
-* **2019 - 2020** : **Post-doc in chemoinformatics - Project <a href="https://anr.fr/Projet-ANR-17-CE18-0024">Theranalpha</a>** - Supervisor: Pr Matthieu MONTES 
+* **2022-2026** : **Senior reseach scientist in the computational chemistry team** - <a href="https://www.qubit-pharmaceuticals.com">Qubit Pharmaceuticals</a>
+* **2020-2022** : **Post-doc in structural biology** - <a href="https://www.bonvinlab.org">Bonvin Lab</a>
+* **2019 - 2020** : **Post-doc in structural bioinformatics - Project <a href="https://anr.fr/Projet-ANR-17-CE18-0024">Theranalpha</a>** - Supervisor: Pr Matthieu MONTES 
 * **2016 - 2019** : PhD student in chemoinformatics - Read more details about my project <a href="{{ site.github.research }}">here</a><br>
 Thesis title : **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, <a href="http://recherche.cnam.fr/gbcm/genomique-bioinformatique-et-chimie-moleculaire-gbcm--658359.kjsp">GBCM</a> - Supervisor: Pr Matthieu MONTES 
  * **2016** (6 months): **Ligand/protein interactions profiling for target prediction**, *France* <br>Paris, Inserm - <a href="http://www.mti.univ-paris-diderot.fr">Molecules Therapeutiques in Silico</a> - Supervisor: Pr Anne-Claude CAMPROUX
